@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664941611629",
+    "project_id": "tareaml-49d6c",
+    "storage_bucket": "tareaml-49d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664941611629:android:4b47a076bce91333cacd64",
+        "android_client_info": {
+          "package_name": "com.example.tareafirebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664941611629-kgifsf8rafs8u72m8ti7au2o7el5gue4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAtiKnB_HUFcsFhPsX48yOD2-YoQBv1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664941611629-kgifsf8rafs8u72m8ti7au2o7el5gue4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
